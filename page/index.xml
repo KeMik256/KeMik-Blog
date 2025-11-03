@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on LWX</title>
+        <link>https://kemik256.github.io/KeMik-Blog/page/</link>
+        <description>Recent content in Pages on LWX</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>LWX CREATED</copyright>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kemik256.github.io/KeMik-Blog/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>归档</title>
+        <link>https://kemik256.github.io/KeMik-Blog/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://kemik256.github.io/KeMik-Blog/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>侧枝链接</title>
+        <link>https://kemik256.github.io/KeMik-Blog/%E4%BE%A7%E6%9E%9D%E9%93%BE%E6%8E%A5/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://kemik256.github.io/KeMik-Blog/%E4%BE%A7%E6%9E%9D%E9%93%BE%E6%8E%A5/</guid>
+        <description>&lt;!--
+To use this feature, add `links` section to frontmatter.
+
+This page&#39;s frontmatter:
+
+```yaml
+links:
+  - title: GitHub
+    description: GitHub is the world&#39;s largest software development platform.
+    website: https://github.com
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: TypeScript
+    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+    website: https://www.typescriptlang.org
+    image: ts-logo-128.jpg
+```
+
+`image` field accepts both local and external images.
+&#39;&#39;&#39;
+--&gt;
+</description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://kemik256.github.io/KeMik-Blog/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://kemik256.github.io/KeMik-Blog/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;span style=&#34;color: gray;&#34;&gt;
+这是一个有关数学，歌曲，还有核类，后室等多文化开放主题的博客页面，希望大家游玩愉快 &lt;br&gt;
+本博客采用Hugo静态页面架构，Markdown格式书写，并在github上开源仓库&lt;br&gt;
+详情请移步到仓库页面：https://github.com/KeMik256/KeMik-Blog&lt;br&gt;
+&lt;p&gt;该博客在不断更新中，包括内容更新和bug修复(比如这个阅读时长)。可以添加书签，随时光临
+&lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🌇😘&lt;/span&gt;
+&lt;/span&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://kemik256.github.io/KeMik-Blog/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://kemik256.github.io/KeMik-Blog/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
