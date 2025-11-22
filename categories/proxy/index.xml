@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Proxy on LWX</title>
+        <link>https://kemik256.github.io/KeMik-Blog/categories/proxy/</link>
+        <description>Recent content in Proxy on LWX</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>LWX CREATED</copyright>
+        <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kemik256.github.io/KeMik-Blog/categories/proxy/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Github Proxy</title>
+        <link>https://kemik256.github.io/KeMik-Blog/p/github-proxy/</link>
+        <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kemik256.github.io/KeMik-Blog/p/github-proxy/</guid>
+        <description>&lt;img src="https://kemik256.github.io/KeMik-Blog/p/github-proxy/proxy.png" alt="Featured image of post Github Proxy" /&gt;&lt;h1 id=&#34;非常好用的镜像节点检测和下载工具&#34;&gt;非常好用的镜像节点检测和下载工具
+&lt;/h1&gt;&lt;p&gt;各位平常应该是通过通过steam++或者科学上网抵达github吧？&lt;br&gt;
+但这样的话下载releases依旧只能通过直连github的https链路，而且如果是使用steam++的会被劫持到127.0.0.1（默认），用终端下载很麻烦。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;请移步到&lt;a class=&#34;link&#34; href=&#34;https://github.akams.cn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.akams.cn/&lt;/a&gt;, 你也可以通过我的侧枝链接直接抵达。&lt;br&gt;
+首先检测一下节点，选择延迟最低的；然后将你的github直连贴到github proxy的搜索框，并根据它提供的http下载直链（最右边）/wget&amp;amp;curl构建（linux终端）来下载，你会明白它的伟大。&lt;/p&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
